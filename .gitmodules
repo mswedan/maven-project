@@ -1,0 +1,3 @@
+[submodule "eLinux"]
+	path = eLinux
+	url = https://github.com/mswedan/eLinux
